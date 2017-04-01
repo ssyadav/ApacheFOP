@@ -35,14 +35,11 @@
                 
                    <fo:block-container position="absolute" >
 				        <fo:block text-align="left" border-bottom-style="solid" border-bottom-width="2.0pt" border-bottom-color="#ccc">
-				            <fo:external-graphic src="url(/share/apps/IR/ionreporter54/thermofisherlogo.png)" content-width="150px"/>
+				            <fo:external-graphic src="url(/Users/satyaveer.yadav/Personal/Projects/Developed/Orbuy/11/images/home/logo.png)" content-width="100px"/>
 				        </fo:block>
 				    </fo:block-container>
 				    
 				    <fo:block-container position="absolute" min-height="21.1cm" max-height="41cm">
-				       <fo:block text-align="right">
-                            <fo:external-graphic src="url(http://localhost:8080/ir/resources//img/dash-analysis.png)" content-width="25px"/>
-                        </fo:block>
 				        <fo:block text-align="right" color="#2d4782" font-size="10.0pt" font-weight="bold">
 				            PDF Report 
 				        </fo:block>
