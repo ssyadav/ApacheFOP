@@ -49,7 +49,7 @@
                 <fo:static-content flow-name="xsl-region-after">
                     <fo:block-container position="absolute">
                         <fo:block text-align="left"  font-size="7.0pt" border-top-style="solid" border-top-width="1.0pt">
-                            For Research Use Only. Not for use in diagnostic procedures.
+                            This is footer
                         </fo:block>
                     </fo:block-container>
                     <fo:block-container position="absolute">
